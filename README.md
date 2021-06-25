@@ -1,6 +1,6 @@
 # Audio Visualizer (2020)
 
-This group project consisted in developing a audio visualizer, a program that would react to music.
+This group project consisted in developing an audio visualizer, a program that would react to music.
 
 ## Main Features Implemented:
 
